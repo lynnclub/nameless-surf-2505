@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "nameless-surf-2505",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c3a41509-6446-4925-a042-8accf1b22f91",
+      "database_name": "curly-heart-1773-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
